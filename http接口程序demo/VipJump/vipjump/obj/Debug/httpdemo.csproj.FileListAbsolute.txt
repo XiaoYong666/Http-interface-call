@@ -1,0 +1,11 @@
+C:\Users\baizhu\Desktop\白术study\基于http的接口\http接口程序demo\VipJump\VipJump\bin\VipJump.dll
+C:\Users\baizhu\Desktop\白术study\基于http的接口\http接口程序demo\VipJump\VipJump\bin\VipJump.pdb
+C:\Users\baizhu\Desktop\白术study\基于http的接口\http接口程序demo\VipJump\VipJump\obj\Debug\httpdemo.csprojResolveAssemblyReference.cache
+C:\Users\baizhu\Desktop\白术study\基于http的接口\http接口程序demo\VipJump\VipJump\obj\Debug\VipJump.dll
+C:\Users\baizhu\Desktop\白术study\基于http的接口\http接口程序demo\VipJump\VipJump\obj\Debug\VipJump.pdb
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\http接口程序demo\VipJump\VipJump\bin\VipJump.dll.config
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\http接口程序demo\VipJump\VipJump\bin\VipJump.dll
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\http接口程序demo\VipJump\VipJump\bin\VipJump.pdb
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\http接口程序demo\VipJump\VipJump\obj\Debug\httpdemo.csprojResolveAssemblyReference.cache
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\http接口程序demo\VipJump\VipJump\obj\Debug\VipJump.dll
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\http接口程序demo\VipJump\VipJump\obj\Debug\VipJump.pdb

@@ -1,0 +1,9 @@
+C:\Users\baizhu\Desktop\白术study\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\baizhu\Desktop\白术study\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\baizhu\Desktop\白术study\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\baizhu\Desktop\白术study\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\v-zhangxy52\Desktop\基于http的接口\基于http的接口\调用http接口\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

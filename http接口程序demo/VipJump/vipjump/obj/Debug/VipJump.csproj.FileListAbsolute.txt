@@ -1,0 +1,5 @@
+D:\项目文件夹\下游接口\vip跳转服务\VipJump\VipJump\bin\VipJump.dll
+D:\项目文件夹\下游接口\vip跳转服务\VipJump\VipJump\bin\VipJump.pdb
+D:\项目文件夹\下游接口\vip跳转服务\VipJump\VipJump\obj\Debug\VipJump.csprojResolveAssemblyReference.cache
+D:\项目文件夹\下游接口\vip跳转服务\VipJump\VipJump\obj\Debug\VipJump.dll
+D:\项目文件夹\下游接口\vip跳转服务\VipJump\VipJump\obj\Debug\VipJump.pdb
